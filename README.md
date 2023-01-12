@@ -8,3 +8,7 @@ empresa.
 
 O sistema foi criado com o intuito de praticar tecnologias de front-end, back-end e banco de dados. O sistema foi criado juntamente com mais 2 integrantes,
 contudo o conteudo desse repositório esta presente somente as partes realizadas por mim. 
+
+# Atividades Realizadas
+
+# Telas 
