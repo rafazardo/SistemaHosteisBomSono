@@ -12,3 +12,19 @@ contudo o conteudo desse repositório esta presente somente as partes realizadas
 # Atividades Realizadas
 
 # Telas 
+
+## Tela Inicial
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_inicial.png)
+
+## Tela Adicionar
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_adicionar.png)
+
+## Tela Remover
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_remover.png)
+
+## Tela Consultar
+
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_consultar.png)
