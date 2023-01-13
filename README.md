@@ -11,6 +11,12 @@ contudo o conteudo desse repositório esta presente somente as partes realizadas
 
 # Atividades Realizadas
 
+* Dividir as demandas do trabalho em telas, dividindo em Telas de Login, Telas do Cliente e Telas do Funcionário e designando cada uma dessas partes para cada integrante do grupo desenvolver.
+* Realizar a documentaçao do Modelo Logico e Modelo Relacional do banco de dados, em seguida criar um banco de dados SQL, utilizando comandos MySql para criação do zero do banco de dados, alem de utilizar tecnicas de relacionamento e triggers para respeitar as regras de normalização.
+* Utilizar as tecnologias de front-end, HTML, CSS e BootStrap para criação das telas do Funcionário, para obter um desing de alto nivel de gerenciamento de banco de dados, para facilitar a navegação do funcionário dentro do sistema. 
+* Aplicar as tecnologias de back-end, PHP e MySql para realizar a interacao com o banco de dados dentro do sistema Web, inserçoes e remocao de tuplas, bem como consulta de dados registrados em uma tabela.
+* Utilizar a versao gratuita da Oracle Cloud para criar um servidor linux, com o fim de hospedar o banco de dados e a implementação do SistemaWeb. 
+
 # Telas 
 
 ## Tela Inicial
