@@ -16,6 +16,7 @@ contudo o conteudo desse repositório esta presente somente as partes realizadas
 * Utilizar as tecnologias de front-end, HTML, CSS e BootStrap para criação das telas do Funcionário, para obter um desing de alto nivel de gerenciamento de banco de dados, para facilitar a navegação do funcionário dentro do sistema. 
 * Aplicar as tecnologias de back-end, PHP e MySql para realizar a interacao com o banco de dados dentro do sistema Web, inserçoes e remocao de tuplas, bem como consulta de dados registrados em uma tabela.
 * Utilizar a versao gratuita da Oracle Cloud para criar um servidor linux, com o fim de hospedar o banco de dados e a implementação do SistemaWeb. 
+* Criar um repositorio no Github e realizar versionamento de codigo, em cada atividade realizada durante o processo de desenvolvimento do Software. 
 
 # Telas 
 
