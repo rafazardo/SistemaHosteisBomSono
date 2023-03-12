@@ -22,22 +22,22 @@ contudo o conteúdo desse repositório possui somente as partes realizadas por m
 
 Após o funcionário fazer login em nosso sitema, ele será direcionado para tela inicial, a qual possui um header estático com informações do funcionário logado e um botão para este sair do sistema. Além disso, nesta tela o usuário poderá navegar por todos os bancos de dados do sistema. Para fazer alterações neles em alto nível, basta selecionar o banco e clicar em algum dos botões de ação: Adicionar, Remover ou Consultar.
 
-![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_inicial.png)
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/SistemaHosteisBomSono/tela_inicial.png)
 
 ## Tela Adicionar
 
 Após o funcionário clicar no botão de Adicionar em uma determinada tabela do banco de dados, este será direcionado a uma tela personalizada, a qual possui os devidos campos para preenchimento para ser adicionado uma nova tupla no banco de dados. Para que seja respeitado o relacionamento nas tabelas, coloquei campos de seleção em chaves estrangeiras, ou seja, o usuário só selecionará itens de outras tabelas que existem.
 
-![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_adicionar.png)
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/SistemaHosteisBomSono/tela_adicionar.png)
 
 ## Tela Remover
 
 Após o funcionário clicar no botão de Remover em uma determinada tabela do banco de dados, será exibido, em formato de tabela, todos os dados armazenados nela, com um botão deletar, que, ao ser acionado, deleta a tupla.
 
-![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_remover.png)
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/SistemaHosteisBomSono/tela_remover.png)
 
 ## Tela Consultar
 
 Após o funcionário clicar no botão de Consultar em uma determinada tabela do banco de dados, será exibido, em formato de tabela, todos os dados armazenados no banco de dados daquela tabela.
 
-![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/tela_consultar.png)
+![alt text](https://github.com/rafazardo/RepositorioImagens/blob/main/SistemaHosteisBomSono/tela_consultar.png)
